@@ -1,1 +1,1 @@
-print("sampasdasdle")
+print("sample")
